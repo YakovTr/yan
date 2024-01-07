@@ -4,6 +4,7 @@ from PyQt5.QtWidgets import QApplication, QMainWindow, QTableWidget, QTableWidge
     QPushButton, QComboBox, QVBoxLayout
 
 
+
 class TableApp(QMainWindow):
     def __init__(self):
         super().__init__()
